@@ -1,0 +1,6 @@
+//LATIHAN REPOSITORY dan GIT
+
+Latihan GIT
+Dengan memasukkan file dalam bentuk .txt
+
+Created by : Syahroni AP 
