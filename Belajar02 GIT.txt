@@ -1,7 +1,0 @@
-// LATIHAN REPOSITORY dan GIT
-// Belajar file yang ke dua
-
-latihan GIT II
-
-Nama   : Syahroni
-Kampus : Universitas Pancasila
