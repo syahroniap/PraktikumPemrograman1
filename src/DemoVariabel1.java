@@ -34,7 +34,7 @@ public class DemoVariabel1{
 	   int v=2;
 	   System.out.println("Nilai V Adalah " +v);
 	   // variabel v tidak boleh dihapus karena masih dipakai dan masih berada dalam scope
-	   short d=15; //variabel d boleh dihapus di baris 26, karena lifetimenya sudah habis
-	   System.out.println("D adalah "+d); // variabel d boleh dihapus di baris 26
+	   short d=15; //variabel d boleh dihapus di baris 28, karena lifetimenya sudah habis
+	   System.out.println("D adalah "+d); // variabel d boleh dihapus di baris 28
 	}
 }
